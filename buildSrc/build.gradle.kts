@@ -1,5 +1,5 @@
 plugins {
-    // This will allow the conventions in src/main to be loaded
+    // This will allow the conventions in buildSrc/src/main to be loaded
     `kotlin-dsl`
 }
 
