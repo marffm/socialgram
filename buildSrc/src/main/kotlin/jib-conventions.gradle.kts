@@ -12,8 +12,8 @@ jib {
     to {
         // todo - Find a better solution to deal with credentials
         auth {
-            username = "marffm1109"
-            password = "Mar8427Bia"
+            username = ""
+            password = ""
         }
 
         val imageName = project.findProperty("imageName")?.toString() ?:
